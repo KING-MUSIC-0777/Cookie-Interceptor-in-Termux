@@ -20,7 +20,7 @@
 💡 Copy and paste the command below to install everything and run the tool:
 💡 คัดลอกและวางคำสั่งด้านล่างนี้เพื่อติดตั้งสิ่งที่จำเป็นทั้งหมดและเริ่มรันโปรแกรมทันที:
 
-pkg update && pkg upgrade -y && pkg install python git -y && pip install requests && python kryptcrumb_pro.py
+`pkg update && pkg upgrade -y && pkg install python git -y && pip install requests && python kryptcrumb_pro.py`
 
 ⚙️ System Requirements (ความต้องการของระบบ) ⚙️
 
