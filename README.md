@@ -31,6 +31,10 @@
 🌐 3. Stable internet connection for downloading dependencies.
 🌐 3. การเชื่อมต่ออินเทอร์เน็ตที่เสถียรสำหรับการดาวน์โหลดไฟล์ที่จำเป็น
 
+🖼️ Project Screenshot Showcase
+🖼️ แสดงภาพตัวอย่างการใช้งานโปรเจกต์
+![Screenshot](Screenshot_20260317-063534_Termux.jpg)
+
 👑 Developer Info 👑
 
 🎨 Created by: KING_MUSIC
