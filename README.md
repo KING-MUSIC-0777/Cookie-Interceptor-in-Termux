@@ -20,7 +20,11 @@
 💡 Copy and paste the command below to install everything and run the tool:
 💡 คัดลอกและวางคำสั่งด้านล่างนี้เพื่อติดตั้งสิ่งที่จำเป็นทั้งหมดและเริ่มรันโปรแกรมทันที:
 
-`pkg update && pkg upgrade -y && pkg install python git -y && pip install requests && python kryptcrumb_pro.py`
+`pkg update && pkg upgrade -y
+pkg install git python -y
+git clone https://github.com/KING-MUSIC-0777/Cookie-Interceptor-in-Termux
+cd Cookie-Interceptor-in-Termux
+python Interceptor.py`
 
 ⚙️ System Requirements (ความต้องการของระบบ) ⚙️
 
